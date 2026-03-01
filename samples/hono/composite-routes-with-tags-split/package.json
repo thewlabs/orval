@@ -9,11 +9,11 @@
     "generate-api": "rm -rf src/endpoints && node ../../../packages/orval/dist/bin/orval.js"
   },
   "dependencies": {
-    "hono": "^4.5.8"
+    "hono": "^4.11.10"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240529.0",
     "orval": "link:../../../packages/orval/dist",
-    "wrangler": "^3.57.2"
+    "wrangler": "^3.114.17"
   }
 }
