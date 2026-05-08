@@ -9,7 +9,7 @@
     "generate-api": "rm -rf src/endpoints && node ../../../packages/orval/dist/bin/orval.js"
   },
   "dependencies": {
-    "hono": "^4.5.8"
+    "hono": "^4.12.16"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240529.0",
