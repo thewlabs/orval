@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@faker-js/faker": "^9.8.0",
-    "axios": "^1.8.2",
+    "axios": "^1.15.2",
     "msw": "^2.0.2"
   }
 }
